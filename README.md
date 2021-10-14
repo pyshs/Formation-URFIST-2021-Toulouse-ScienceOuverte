@@ -1,6 +1,6 @@
 # Formation Introduction à Python - URFIST Toulouse 9-10 novembre
 
-Préalable à la formation Python pour la [Science Ouverte](https://github.com/ml4rrieu/py_so)
+Préalable à la formation [Python pour la Science Ouverte](https://github.com/ml4rrieu/py_so)
 
 [Lien vers la formation](https://sygefor.reseau-urfist.fr/#/training/9308/10848?from=true)
 
@@ -8,15 +8,17 @@ Pour toute information emilien.schultz[at]ird.fr
 
 ## Objectifs
 
-Voir les bases de la programmation Python orienté script et data science pour le traitement de données.
+Voir les bases de la programmation Python orienté écriture de script et data science pour le traitement de données.
 
-- Présentation du langage Python
-- Notions de base
+- Présentation du langage Python et des environnements utilisés
+- Notions de base du langage
 - Identification, installation et utilisation de bibliothèques
 - Bibliothèque Pandas pour manipuler des données
 - Notion d'API, collecter des données
 
 ## Organisation de la formation
+
+La formation est tournée vers l'application, chaque stagiaire doit avoir un ordinateur.
 
 - 9/11 9h30-12h30 : bases du langage Python et base d'algorithmique
 - 9/11 14h-17h : installation de bibliothèques et écriture de script
