@@ -13,8 +13,8 @@ Voir les bases de la programmation Python orienté écriture de script et data s
 - Présentation du langage Python et des environnements utilisés
 - Notions de base du langage
 - Identification, installation et utilisation de bibliothèques
+- Notion d'API, collecter des données (exemple de HAL)
 - Bibliothèque Pandas pour manipuler des données
-- Notion d'API, collecter des données
 
 ## Organisation de la formation
 
