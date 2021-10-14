@@ -2,9 +2,11 @@
 
 Préalable à la formation Python pour la [Science Ouverte](https://github.com/ml4rrieu/py_so)
 
-[Lien vers la formation](https://sygefor.reseau-urfist.fr/#/training/9309/10849)
+[Lien vers la formation](https://sygefor.reseau-urfist.fr/#/training/9308/10848?from=true)
 
-## Objectifs
+Pour toute information emilien.schultz[at]ird.fr
+
+## Objectifs
 
 Voir les bases de la programmation Python orienté script et data science pour le traitement de données.
 
@@ -13,6 +15,14 @@ Voir les bases de la programmation Python orienté script et data science pour l
 - Identification, installation et utilisation de bibliothèques
 - Bibliothèque Pandas pour manipuler des données
 - Notion d'API, collecter des données
+
+## Organisation de la formation
+
+- 9/11 9h30-12h30 : bases du langage Python et base d'algorithmique
+- 9/11 14h-17h : installation de bibliothèques et écriture de script
+- 10/11 9h30-12h30 : familiarisation avec la bibliothèque Pandas pour le traitement de données
+
+Exercice d'application en vue de la (formation suivante)[https://sygefor.reseau-urfist.fr/#/training/9309/10849]
 
 ### Installation de Python
 
