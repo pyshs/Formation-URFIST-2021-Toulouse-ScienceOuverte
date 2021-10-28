@@ -24,7 +24,7 @@ La formation est tournée vers l'application, chaque stagiaire doit avoir un ord
 - 9/11 14h-16h : installation de bibliothèques et écriture de script
 - 10/11 9h30-12h30 : familiarisation avec la bibliothèque Pandas pour le traitement de données
 
-Exercice d'application en vue de la (formation suivante)[https://sygefor.reseau-urfist.fr/#/training/9309/10849]
+Exercice d'application en vue de la [formation suivante](https://sygefor.reseau-urfist.fr/#/training/9309/10849)
 
 ### Installation de Python
 
