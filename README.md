@@ -21,8 +21,8 @@ Voir les bases de la programmation Python orienté écriture de script et data s
 La formation est tournée vers l'application, chaque stagiaire doit avoir un ordinateur.
 
 - 9/11 9h30-12h30 : bases du langage Python et base d'algorithmique
-- 9/11 14h-16h : installation de bibliothèques et écriture de script
-- 10/11 9h30-12h30 : familiarisation avec la bibliothèque Pandas pour le traitement de données
+- 9/11 13h30-16h : installation de bibliothèques et écriture de script
+- :warning: DISTANCIEL 10/11 9h30-12h30 : familiarisation avec la bibliothèque Pandas pour le traitement de données
 
 Exercice d'application en vue de la [formation suivante](https://sygefor.reseau-urfist.fr/#/training/9309/10849)
 
