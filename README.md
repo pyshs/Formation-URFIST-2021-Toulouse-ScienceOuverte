@@ -4,6 +4,8 @@ Préalable à la formation [Python pour la Science Ouverte](https://github.com/m
 
 [Lien vers la formation](https://sygefor.reseau-urfist.fr/#/training/9308/10848?from=true)
 
+[Données qui vont être utilisées dans la formation](https://www.dropbox.com/s/tj7qp22jihdtong/Data.zip?dl=0)
+
 Pour toute information emilien.schultz[at]ird.fr
 
 ## Objectifs
